@@ -1,0 +1,18 @@
+# Global ignore
+.DS_Store
+node_modules/
+build/
+.idea/
+.packages
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Node backend
+/backend-node/node_modules
+
+# Flutter frontend
+/frontend-flutter/.dart_tool
+/frontend-flutter/.packages
+/frontend-flutter/build
+/frontend-flutter/.flutter-plugins
