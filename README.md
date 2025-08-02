@@ -19,10 +19,9 @@ node index.js
 
 ### Frontend
 
-´´´bash
+````bash
 cd frontend-flutter
 flutter run
 
 ```
-
-```
+````
